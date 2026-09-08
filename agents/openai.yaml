@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 196"
+  short_description: "Top-down Geometric Figure Vignette"
+  default_prompt: "Use $xxd-panel-196 to transform my photograph following the complete canonical source brief."
