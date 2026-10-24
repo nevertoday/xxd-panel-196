@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-196
-description: "Create Panel 196 raster artwork: Top-down Geometric Figure Vignette. Use when the user invokes xxd-panel-196 or requests this specific visual language."
+description: "XXD Panel 196｜Top-down Geometric Figure Vignette: redraws the people in a photo as minimal geometric figures seen from directly above — heads, bodies, clothes and limbs compressed into circles, ovals, half-circles, capsules and a few organic colour blocks that keep each person's identity, pose and direction — in flat colour with no modelled shading, each with a faint soft shadow beneath. The small figures sit off-centre, scattered or cropped in wide empty space, coloured with the brightest hues of the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach pink) on clean warm white, with a few small, light words. The style is built around human figures. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-196 or asks for top-down, bird's-eye geometric or Bauhaus-like figure illustration from a photo of people."
 ---
 
 # XXD Panel 196

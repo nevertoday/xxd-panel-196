@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 196"
-  short_description: "Top-down Geometric Figure Vignette"
-  default_prompt: "Use $xxd-panel-196 to transform my photograph following the complete canonical source brief."
+  short_description: "俯视几何抽象人物：把照片里的人从正上方画成圆形、胶囊形组成的扁平几何人物，配色明快"
+  default_prompt: "Use $xxd-panel-196 to turn my photo into Top-down Geometric Figure Vignette artwork."

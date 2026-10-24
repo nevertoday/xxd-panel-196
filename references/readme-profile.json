@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 196｜Top-down Geometric Figure Vignette: redraws the people in a photo as minimal geometric figures seen from directly above — heads, bodies, clothes and limbs compressed into circles, ovals, half-circles, capsules and a few organic colour blocks that keep each person's identity, pose and direction — in flat colour with no modelled shading, each with a faint soft shadow beneath. The small figures sit off-centre, scattered or cropped in wide empty space, coloured with the brightest hues of the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach pink) on clean warm white, with a few small, light words. The style is built around human figures. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-196 or asks for top-down, bird's-eye geometric or Bauhaus-like figure illustration from a photo of people.",
+  "short_description": "俯视几何抽象人物：把照片里的人从正上方画成圆形、胶囊形组成的扁平几何人物，配色明快",
+  "zh-CN": {
+    "name": "俯视几何抽象人物",
+    "tagline": "把照片里的人从正上方看下去，画成由圆形和胶囊形组成的扁平几何人物。",
+    "look": "照片里的人被放到俯视视角下，头、身体、衣服和四肢压缩成圆形、椭圆、半圆、胶囊形和少量有机色块，只保留能认出身份、动作和气质的特征。画面全是扁平色块，不靠明暗塑形，每个人物下方有一圈极淡的柔和阴影，显得微微悬浮。人物尺寸小，可以分散、偏心或贴边，四周大面积留白。颜色取照片里最明亮的天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，配纯净暖白，文字是留白边角里的少量小字。",
+    "traits": ["俯视视角", "几何人物", "扁平色块", "柔和投影", "明快配色"],
+    "good": [
+      "有人且动作清楚的照片：散步、骑车、躺在草地上、跳舞",
+      "几个人之间有关系的场景：两人并肩、一家人野餐、操场上的几个人",
+      "人和简单环境的照片：沙滩上的人、泳池边、空旷的广场"
+    ],
+    "poor": [
+      "没有人的照片：纯风景、静物、建筑，这一风格围绕人物展开",
+      "需要认出具体面孔的人像特写",
+      "想要写实人物、复杂透视、卡通或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Top-down Geometric Figure Vignette",
+    "tagline": "Looks down on the people in a photo and redraws them as flat geometric figures made of circles and capsules.",
+    "look": "The people in your photo are seen from above, their heads, bodies, clothes and limbs compressed into circles, ovals, half-circles, capsules and a few organic colour blocks, keeping only what shows who they are, what they are doing and how they carry themselves. Everything is flat colour with no shading to model form, and each figure has a very faint soft shadow beneath it, so it seems to float slightly. The figures are small and can be scattered, off-centre or against an edge, with wide empty space around them. Colours are the brightest in the photo, such as sky blue, lake teal, fresh green, warm yellow, coral orange and peach pink, on clean warm white, with a few small words in the corners of the whitespace.",
+    "traits": ["Top-down view", "Geometric figures", "Flat colour", "Soft shadows", "Bright palette"],
+    "good": [
+      "Photos of people with a clear action: walking, cycling, lying on the grass, dancing",
+      "Scenes with a relationship between a few people: two side by side, a family picnic, a few people on a playground",
+      "People in simple surroundings: someone on a beach, by a pool, in an open square"
+    ],
+    "poor": [
+      "Photos without people, such as pure landscapes, still lifes or buildings, since this style is built around human figures",
+      "Close-up portraits where a specific face must be recognisable",
+      "Requests for realistic people, complex perspective, cartoons or 3D"
+    ]
+  },
+  "ja": {
+    "name": "俯瞰の幾何学人物小品",
+    "tagline": "写真の人物を真上から見下ろし、円とカプセル形でできた平面の幾何学人物に描き直します。",
+    "look": "写真の人物を俯瞰で捉え、頭、体、服、手足を円、楕円、半円、カプセル形とわずかな有機的な色面に圧縮し、その人だとわかる特徴、動き、雰囲気だけを残します。画面はすべて平らな色面で、陰影で立体をつくらず、人物の下にはごく淡い柔らかな影があって少し浮いて見えます。人物は小さく、散らしたり、中心から外したり、端に寄せたりでき、周りには大きな余白をとります。色は写真の中でいちばん明るい空色、湖の青緑、若葉色、暖かな黄、コーラルオレンジ、ピーチピンクを澄んだ温かな白に合わせ、文字は余白の隅に小さく数語置きます。",
+    "traits": ["俯瞰の視点", "幾何学の人物", "平らな色面", "柔らかな影", "明るい配色"],
+    "good": [
+      "人物の動きがはっきりした写真：散歩、自転車、芝生に寝転ぶ、ダンス",
+      "数人の関係が見える場面：並んで歩く二人、家族のピクニック、校庭の数人",
+      "人とシンプルな環境の写真：砂浜の人、プールサイド、広い広場"
+    ],
+    "poor": [
+      "人が写っていない写真：風景だけ、静物、建物（このスタイルは人物が中心です）",
+      "特定の顔を見分ける必要がある人物のアップ",
+      "写実的な人物、複雑な遠近、漫画風、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "탑뷰 기하학 인물 소품",
+    "tagline": "사진 속 사람들을 바로 위에서 내려다보며 원과 캡슐 모양으로 된 평면 기하 인물로 다시 그립니다.",
+    "look": "사진 속 사람들을 위에서 내려다본 시점으로 옮기고, 머리, 몸, 옷, 팔다리를 원, 타원, 반원, 캡슐 모양과 약간의 유기적 색면으로 압축해 누구인지, 무엇을 하는지, 어떤 분위기인지 알 수 있는 특징만 남깁니다. 화면은 모두 평평한 색면이고 명암으로 형태를 만들지 않으며, 인물 아래에는 아주 옅고 부드러운 그림자가 있어 살짝 떠 보입니다. 인물은 작고, 흩어지거나 중심에서 비켜나거나 가장자리에 붙을 수 있으며, 둘레에는 넓은 여백을 둡니다. 색은 사진에서 가장 밝은 하늘색, 호수 청록, 연두, 따뜻한 노랑, 코랄 오렌지, 복숭아 분홍을 맑고 따뜻한 흰색과 맞추고, 글자는 여백 모서리에 작게 몇 개 둡니다.",
+    "traits": ["탑뷰 시점", "기하 인물", "평면 색면", "부드러운 그림자", "밝은 배색"],
+    "good": [
+      "사람의 동작이 분명한 사진: 산책, 자전거, 잔디에 눕기, 춤",
+      "몇 사람 사이의 관계가 보이는 장면: 나란히 걷는 두 사람, 가족 피크닉, 운동장의 몇 사람",
+      "사람과 단순한 환경의 사진: 해변의 사람, 수영장 가, 탁 트인 광장"
+    ],
+    "poor": [
+      "사람이 없는 사진: 풍경만 있는 사진, 정물, 건물(이 스타일은 인물을 중심으로 합니다)",
+      "특정 얼굴을 알아봐야 하는 인물 클로즈업",
+      "사실적인 인물, 복잡한 원근, 만화풍, 3D 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد أشخاص هندسي من الأعلى",
+    "tagline": "ينظر إلى الأشخاص في الصورة من الأعلى ويعيد رسمهم أشكالاً هندسية مسطحة من دوائر وكبسولات.",
+    "look": "يُرى الأشخاص في صورتك من فوق، وتُضغط رؤوسهم وأجسامهم وثيابهم وأطرافهم في دوائر وأشكال بيضوية وأنصاف دوائر وكبسولات وقليل من الكتل اللونية العضوية، ولا يبقى إلا ما يدل على هويتهم وحركتهم وهيئتهم. كل شيء بألوان مسطحة من دون تظليل يجسّم الشكل، وتحت كل شخص ظل ناعم باهت جداً يجعله يبدو طافياً قليلاً. الأشخاص صغار، يمكن أن يتفرقوا أو يبتعدوا عن المركز أو يلامسوا الحافة، مع فراغ واسع حولهم. الألوان أزهى ما في الصورة، مثل الأزرق السماوي وفيروزي البحيرة والأخضر الغض والأصفر الدافئ والبرتقالي المرجاني والوردي الخوخي، فوق أبيض دافئ نقي، مع كلمات صغيرة قليلة في زوايا الفراغ.",
+    "traits": ["منظور علوي", "أشخاص هندسيون", "ألوان مسطحة", "ظلال ناعمة", "ألوان زاهية"],
+    "good": [
+      "صور أشخاص في حركة واضحة: المشي، ركوب الدراجة، الاستلقاء على العشب، الرقص",
+      "مشاهد فيها علاقة بين عدد قليل من الناس: اثنان جنباً إلى جنب، نزهة عائلية، بضعة أشخاص في ملعب",
+      "أشخاص في محيط بسيط: شخص على الشاطئ، بجانب مسبح، في ساحة مفتوحة"
+    ],
+    "poor": [
+      "صور بلا أشخاص، مثل المناظر الطبيعية الخالصة والطبيعة الصامتة والمباني، لأن هذا الأسلوب قائم على الشخوص البشرية",
+      "الصور الشخصية القريبة التي يجب أن يُعرف فيها وجه بعينه",
+      "طلب أشخاص واقعيين أو منظور معقد أو رسوم كرتونية أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
